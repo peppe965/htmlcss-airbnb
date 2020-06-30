@@ -7,8 +7,8 @@
 .image{
   background-size:cover;
   background-repeat: no-repeat;
-  width: calc(100%-10px);
-  height: 100vh;
+  width: calc(100% - 10px);
+  height: calc(100vh - 10px);
   margin: 5px;
   position: relative;
 }
